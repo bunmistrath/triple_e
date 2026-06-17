@@ -1,5 +1,5 @@
   "type": "micro",
-  "wake_word": "triple_ee",
+  "wake_word": "hey_triple_ee",
   "author": "bunmi",
   "version": 2,
   "model": "https://raw.githubusercontent.com/bunmistrath/triple_e/hey_triple_ee.tflite"
