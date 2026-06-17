@@ -1,0 +1,13 @@
+  "type": "micro",
+  "wake_word": "triple_ee",
+  "author": "bunmi",
+  "version": 2,
+  "model": "/config/models/hey_triple_ee.tflite",
+  "trained_languages": ["en"],
+  "micro": {
+    "probability_cutoff": 0.85,
+    "sliding_window_size": 10,
+    "feature_step_size": 10,
+    "tensor_arena_size": 100000
+  }
+}
