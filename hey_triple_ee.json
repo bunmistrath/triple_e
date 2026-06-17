@@ -2,7 +2,7 @@
   "wake_word": "hey_triple_ee",
   "author": "bunmi",
   "version": 2,
-  "model": "https://raw.githubusercontent.com/bunmistrath/triple_e/hey_triple_ee.tflite"
+  "model": "https://github.com/bunmistrath/triple_e/blob/main/hey_tripple_ee.tflite"
   "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.85,
