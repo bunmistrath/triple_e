@@ -1,8 +1,9 @@
+{
   "type": "micro",
   "wake_word": "hey triple ee",
   "author": "bunmi",
   "version": 2,
-  "model": "hey_tripple_ee.tflite"
+  "model": "hey_tripple_ee.tflite",
   "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.85,
