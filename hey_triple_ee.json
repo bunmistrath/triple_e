@@ -1,12 +1,12 @@
   "type": "micro",
-  "wake_word": "hey_triple_ee",
+  "wake_word": "hey triple ee",
   "author": "bunmi",
   "version": 2,
-  "model": "https://raw.github.com/bunmistrath/triple_e/blob/main/hey_tripple_ee.tflite"
+  "model": "hey_tripple_ee.tflite"
   "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.85,
-    "sliding_window_size": 10,
+    "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 100000
   }
